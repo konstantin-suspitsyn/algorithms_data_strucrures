@@ -1,3 +1,12 @@
 # Algorithms and data structures from scratch
 
-- [x] Binary search in ordered list
+###This code was made after reading book <b>"Grokking Algorithms"</b>
+All code is in ```algorithms.grockking``` package
+#### Chapter 1
+- [x] Binary search in ordered list (```algorithms.grokking.BinarySearchOrderedList.java```)
+#### Chapter 2
+- [x] Sorting by choice (```SelectionSort.java```)
+#### Chapter 3
+- [x] Recursion (```algorithms.grokking.DifferentRecursions.java```)
+#### Chapter 4
+- [x] Quick Sort
